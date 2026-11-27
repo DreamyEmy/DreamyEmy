@@ -12,7 +12,7 @@ Software Engineering student from Ecuador 🇪🇨, learning to build things and
 Gaming, anime and coding my own little projects 💻
 
 ### 📫 Find me
-[![X](https://img.shields.io/badge/@itsdreamyboy-000000?logo=x&logoColor=white)](https://x.com/itsdreamyboy)
+[![X](https://img.shields.io/badge/%20-000000?logo=x&logoColor=white)](https://x.com/itsdreamyboy)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/548702833310957568)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/dreamyemy)
 
