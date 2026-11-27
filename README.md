@@ -1,6 +1,6 @@
 # Hi, I'm Emy 🌙
 
-Software Engineering student 🌙 · learning Python, Flutter & web · curious about cybersecurity 🔐 · gamer & anime enjoyer
+Right now I'm diving into Python, Flutter and web development, with a growing curiosity for cybersecurity. I like figuring out how things work and turning small ideas into real projects ✨
 
 ### 🛠️ Stuff I'm learning
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
