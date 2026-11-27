@@ -1,6 +1,6 @@
 # Hi, I'm Emy 🌙
 
-Right now I'm diving into Python, Flutter and web development, with a growing curiosity for cybersecurity. I like figuring out how things work and turning small ideas into real projects ✨
+Right now I'm diving into Python, Flutter and web development, with a growing curiosity for cybersecurity. I love learning new things and understanding how everything works ✨
 
 ### 🛠️ Stuff I'm learning
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -9,7 +9,7 @@ Right now I'm diving into Python, Flutter and web development, with a growing cu
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### 🎮 When I'm not coding
-Gaming, anime and coding my own little projects 💻
+Watching anime and series, reading visual novels and playing games. I love getting lost in a good story 📚
 
 ### 📫 Find me
 [![Twitter](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/itsdreamyboy)
