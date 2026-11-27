@@ -9,7 +9,7 @@ Software Engineering student from Ecuador 🇪🇨, learning to build things and
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### 🎮 When I'm not coding
-Gaming, anime and testing emulators that definitely aren't ready yet.
+Gaming, anime and coding my own little projects 💻
 
 ### 📫 Find me
 Open an issue on any of my repos ✨
